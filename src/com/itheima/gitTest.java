@@ -10,4 +10,8 @@ public class gitTest {
     public void say() {
         System.out.println("hehehe");
     }
+
+    public void hello() {
+        System.out.println("helloway");
+    }
 }
