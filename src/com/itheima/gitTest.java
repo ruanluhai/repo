@@ -6,4 +6,8 @@ public class gitTest {
         System.out.println("test02");
         System.out.println("test03");
     }
+
+    public void say() {
+        System.out.println("hehehe");
+    }
 }
